@@ -154,6 +154,9 @@ exploring new technologies, and discussing innovative ideas.
 [![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](somaya8181@gmail.com)
 
 </div>
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/SomayaMahmoud/SomayaMahmoud/output/dist/snake.svg)
 
 ---
 
