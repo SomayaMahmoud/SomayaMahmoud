@@ -21,7 +21,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somaya8181@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SomayaMahmoud)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0D9488&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=SomayaMahmoud&style=for-the-badge&color=0D9488&label=PROFILE+VIEWS)
 
 </div>
 
