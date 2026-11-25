@@ -1,4 +1,4 @@
-# somaya-mahmoud
+# SomayaMahmoud
 
 <!-- HEADER -->
 <div align="center">
