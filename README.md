@@ -1,8 +1,8 @@
-# SomayaMahmoud
+# Somaya Mahmoud
 
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0D9488,100:2563EB&height=220&section=header&text=YOUR%20NAME&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descAlignY=62&descSize=20&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0D9488,100:2563EB&height=220&section=header&text=Somaya%20Mahmoud&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descAlignY=62&descSize=20&animation=fadeIn" width="100%"/>
 </div>
 
 <!-- TYPING ANIMATION -->
@@ -57,7 +57,7 @@ My interests span Machine Learning, Deep Learning, Generative AI, Agentic AI, NL
 
 ### 🧠 Generative AI & NLP
 
-<img src="https://skillicons.dev/icons?i= huggingface" />
+<img src="https://skillicons.dev/icons?i=huggingface" />
 
 `LLMs` `RAG` `AI Agents` `LangChain` `LangGraph` `Transformers`
 
@@ -69,7 +69,7 @@ My interests span Machine Learning, Deep Learning, Generative AI, Agentic AI, NL
 
 ### ⚙️ Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,fastapi`
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,fastapi" />
 
 </div>
 
@@ -87,7 +87,6 @@ My interests span Machine Learning, Deep Learning, Generative AI, Agentic AI, NL
 | 🍇 **Date Fruit Image Dataset** | Curated and preprocessed an image dataset of date fruit varieties across growth stages, applying data augmentation to support computer vision research. | Python · Computer Vision · Image Processing |
 
 </div>
-
 
 ---
 
@@ -110,13 +109,13 @@ My interests span Machine Learning, Deep Learning, Generative AI, Agentic AI, NL
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SomayaMahmoud&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomayaMahmoud&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="80%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SomayaMahmoud&theme=tokyonight&hide_border=true" width="80%"/>
 
 </div>
 
@@ -126,7 +125,7 @@ My interests span Machine Learning, Deep Learning, Generative AI, Agentic AI, NL
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SomayaMahmoud&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
@@ -136,7 +135,7 @@ My interests span Machine Learning, Deep Learning, Generative AI, Agentic AI, NL
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/SomayaMahmoud/SomayaMahmoud/output/dist/snake.svg" alt="Contribution Snake" width="100%"/>
 
 </div>
 
@@ -146,24 +145,10 @@ My interests span Machine Learning, Deep Learning, Generative AI, Agentic AI, NL
 
 <div align="center">
 
-I'm always open to collaborating on AI projects,
-exploring new technologies, and discussing innovative ideas.
+I'm always open to collaborating on AI projects, exploring new technologies, and discussing innovative ideas.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/somayamahmoud8181/)
 
-[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](somaya8181@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somaya8181@gmail.com)
 
 </div>
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/SomayaMahmoud/SomayaMahmoud/output/dist/snake.svg)
-
----
-
-<div align="center">
-
-*"Curiosity fuels innovation. Experimentation drives progress."*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0D9488,100:2563EB&height=120&section=footer" width="100%"/>
