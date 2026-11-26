@@ -1,3 +1,4 @@
+
 # Somaya Mahmoud
 
 <!-- HEADER -->
@@ -8,7 +9,7 @@
 <!-- TYPING ANIMATION -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Building+Intelligent+Solutions;Machine+Learning+%26+Deep+Learning;Generative+AI+%7C+Agentic+AI;NLP+%7C+Computer+Vision;Turning+Ideas+Into+AI-Powered+Applications" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Building+Intelligent+Solutions;Machine+Learning+%26+Deep+Learning;Generative+AI+%7C+Agentic+AI;NLP+%7C+Computer+Vision;AI+Instructor+%7C+5+Years+of+Teaching+Experience;Turning+Ideas+Into+AI-Powered+Applications" alt="Typing SVG"/>
   </a>
 </div>
 
@@ -31,15 +32,47 @@
 
 > *Driven by curiosity. Empowered by AI. Focused on building intelligent solutions.*
 
-I'm an AI Engineer passionate about transforming complex ideas into practical AI applications.
+I'm an AI Engineer passionate about transforming complex ideas into practical AI applications. With **5 years of teaching experience**, I combine technical knowledge with the ability to communicate complex concepts and support learners in their technical journey.
 
 My interests span Machine Learning, Deep Learning, Generative AI, Agentic AI, NLP, and Computer Vision. I enjoy experimenting with emerging technologies and building intelligent systems that solve real-world problems.
 
 - 🧠 Exploring **Generative AI & Agentic AI**
-- 🤖 Interested in **Machine Learning & Deep Learning**
+- 🤖 Developing solutions using **Machine Learning & Deep Learning**
 - 👁️ Exploring **NLP & Computer Vision**
-- 💻 Building AI-powered applications with Python
-- 🌱 Always learning, experimenting, and improving
+- 👩‍🏫 **5 years of experience as an Instructor**
+- 🚀 Participated in the **Digital Pioneers Initiative (Digilians)**
+- 🛰️ Gained practical experience through a **Space Agency Internship**
+- 💻 Building AI-powered applications using Python
+- 🌱 Continuously learning, experimenting, and improving
+
+---
+
+## 💼 Experience & Activities
+
+### 👩‍🏫 Instructor | 5 Years of Teaching Experience
+- Delivered educational content and guided learners through technical concepts.
+- Developed communication, mentoring, and problem-solving skills.
+- Simplified complex concepts and supported learners in their practical learning journey.
+
+### 🚀 Digital Pioneers Initiative (Digilians)
+- Participated in the Digital Pioneers Initiative.
+- Developed technical skills through learning and practical activities.
+- Expanded knowledge in technology and digital innovation.
+
+### 🛰️ Space Agency Internship
+- Gained internship experience in the space sector.
+- Exposure to technical applications and practical working environments.
+- Developed professional and technical skills through hands-on learning.
+
+---
+
+## 🎓 Education
+
+<!-- Arrange your educational qualifications in reverse chronological order: newest first. -->
+
+- **[Latest Degree / Program]** — [Institution Name] | [Year]
+- **[Previous Degree / Program]** — [Institution Name] | [Year]
+- **[Earlier Qualification]** — [Institution Name] | [Year]
 
 ---
 
@@ -55,11 +88,13 @@ My interests span Machine Learning, Deep Learning, Generative AI, Agentic AI, NL
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 
+`Machine Learning` `Deep Learning` `Computer Vision` `NLP`
+
 ### 🧠 Generative AI & NLP
 
 <img src="https://skillicons.dev/icons?i=huggingface" />
 
-`LLMs` `RAG` `AI Agents` `LangChain` `LangGraph` `Transformers`
+`LLMs` `Generative AI` `RAG` `Agentic AI` `LangChain` `LangGraph` `Transformers`
 
 ### 📊 Data Science
 
@@ -67,9 +102,17 @@ My interests span Machine Learning, Deep Learning, Generative AI, Agentic AI, NL
 
 `Matplotlib` `Seaborn` `Data Analysis` `Feature Engineering`
 
+### 🌐 AI Application Development
+
+<img src="https://skillicons.dev/icons?i=streamlit,fastapi" />
+
+`Streamlit` `FastAPI` `REST APIs`
+
 ### ⚙️ Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,fastapi" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+
+`Docker` `Linux` `Git` `GitHub` `VS Code`
 
 </div>
 
@@ -145,10 +188,11 @@ My interests span Machine Learning, Deep Learning, Generative AI, Agentic AI, NL
 
 <div align="center">
 
-I'm always open to collaborating on AI projects, exploring new technologies, and discussing innovative ideas.
+I'm always open to connecting with people passionate about Artificial Intelligence, Machine Learning, and technology.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/somayamahmoud8181/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somayamahmoud8181/)
 
-[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somaya8181@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somaya8181@gmail.com)
 
 </div>
+
