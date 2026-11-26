@@ -1,21 +1,15 @@
+
 # Somaya Mahmoud
 
-<!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0D9488,100:2563EB&height=220&section=header&text=Somaya%20Mahmoud&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descAlignY=62&descSize=20&animation=fadeIn" width="100%"/>
-</div>
 
-<!-- TYPING ANIMATION -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Building+Intelligent+Solutions;Machine+Learning+%26+Deep+Learning;Generative+AI+%7C+Agentic+AI;NLP+%7C+Computer+Vision;LLM+Agents+%7C+Earth+Observation;Turning+Ideas+Into+AI-Powered+Applications" alt="Typing SVG"/>
-  </a>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0D9488,100:2563EB&height=220&section=header&text=Somaya%20Mahmoud&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descAlignY=62&descSize=20&animation=fadeIn" width="100%"/>
 
----
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Building+Intelligent+Solutions;Machine+Learning+%26+Deep+Learning;Generative+AI+%7C+Agentic+AI;LLM+Agents+%7C+Earth+Observation;NLP+%7C+Computer+Vision;AI+Instructor+%7C+Technical+Educator" alt="Typing SVG"/>
+</a>
 
-<!-- SOCIAL LINKS -->
-<div align="center">
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somayamahmoud8181/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somaya8181@gmail.com)
@@ -27,24 +21,24 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👩‍💻 About Me
 
 > *Driven by curiosity. Empowered by AI. Focused on building intelligent solutions.*
 
-I'm an AI Engineer passionate about building intelligent systems that bridge Large Language Models, machine learning, and real-world applications.
+I'm an AI Engineer passionate about building intelligent systems that bridge Large Language Models, Machine Learning, and real-world applications.
 
-My experience includes developing LLM-based agents, integrating geospatial data services, building RAG-powered applications, and working on machine learning and computer vision projects.
+My experience includes developing LLM-based agents, integrating geospatial data services, building RAG-powered applications, and working on Machine Learning and Computer Vision projects.
 
-I also bring several years of teaching experience, which has strengthened my communication, mentoring, and technical problem-solving skills.
+With a background in Electrical Engineering and five years of teaching experience, I combine technical knowledge, analytical thinking, and communication skills to solve problems and share knowledge.
 
 - 🤖 Building **LLM-powered agents and Generative AI applications**
 - 🧠 Exploring **Machine Learning, Deep Learning, and NLP**
-- 🛰️ Working with **AI applications in Earth Observation**
+- 🛰️ Applying AI to **Earth Observation and satellite imagery**
 - 🔎 Developing **RAG pipelines and intelligent retrieval systems**
-- 👩‍🏫 Experienced **Part-Time Instructor since 2019**
-- 🎓 AI & Data Science graduate of the **Digilians Scholarship at NTI**
-- 💻 Developing AI applications with Python and modern backend technologies
-- 🌱 Continuously learning and building practical AI solutions
+- 👩‍🏫 **5+ years of teaching experience**
+- 🎓 AI & Data Science graduate through the **Digilians Scholarship at NTI**
+- 💻 Building AI applications with Python and modern development tools
+- 🌱 Continuously learning and creating practical AI solutions
 
 ---
 
@@ -52,26 +46,29 @@ I also bring several years of teaching experience, which has strengthened my com
 
 ### 🤖 Artificial Intelligence Intern
 **Egyptian Space Agency (EgSA) — Earth Observation**  
-*September 2026 – November 2026*
+📅 September 2026 – November 2026
 
 - Co-developed an LLM-based agent that translates natural-language requests into satellite imagery analyses for Earth Observation, incorporating a human approval step before execution.
-- Designed and contributed to the agent's architecture and registry files.
+- Contributed to the agent's architecture and designed its registry files.
 - Integrated Google Earth Engine to retrieve satellite imagery and compute spectral indices, including NDVI.
-- Used Pydantic for structured data validation and reliable agent inputs and outputs.
+- Used Pydantic to validate structured agent inputs and outputs.
 - Collaborated on a full-stack application built with Python, FastAPI, Node.js, React, and PostgreSQL.
-- Contributed to workflows for analysis planning, result retrieval, and downloadable outputs.
+- Contributed to workflows supporting analysis planning, result retrieval, and downloadable outputs.
 
 🔗 **Team Project:** [Satellite Indices Agent](https://github.com/mayar22mostafa/satellite-indices-agent)
+
+**Technologies:** Python · LLMs · Google Earth Engine · Pydantic · FastAPI · React · Node.js · PostgreSQL
 
 ---
 
 ### 👩‍🏫 Part-Time Instructor
 **Mountain Academy**  
-*February 2019 – Present*
+📅 February 2019 – Present
 
 - Teach Physics, Electronics, and Communications Engineering courses online.
 - Deliver technical content to university students from different universities and academic levels.
-- Simplify complex engineering concepts and adapt teaching methods to different learning needs.
+- Simplify complex engineering concepts and adapt teaching approaches to different learning needs.
+- Develop communication, mentoring, presentation, and problem-solving skills.
 
 ---
 
@@ -79,7 +76,7 @@ I also bring several years of teaching experience, which has strengthened my com
 
 ### 🎓 AI and Data Science Diploma — Digilians Scholarship
 **National Telecommunications Institute (NTI)**  
-*December 2025 – September 2026*
+📅 December 2025 – September 2026
 
 - Nine-month full-time residential program at the Egyptian Military Academy.
 - Specialized training in Machine Learning, Deep Learning, NLP, Computer Vision, Data Analysis & Visualization, and Generative AI.
@@ -87,7 +84,7 @@ I also bring several years of teaching experience, which has strengthened my com
 
 ### 🎓 B.Eng. in Electrical Engineering
 **Modern Academy**  
-*September 2015 – June 2020*
+📅 September 2015 – June 2020
 
 - Minor in Communications and Electronics Engineering.
 - Graduation Project: **Smart Port** — Embedded Systems Project.
@@ -106,44 +103,53 @@ I also bring several years of teaching experience, which has strengthened my com
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 
-`Machine Learning` `Deep Learning` `Computer Vision` `NLP`  
-`Data Analysis` `Feature Engineering` `Model Evaluation`
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-2563EB?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-7C3AED?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-DC2626?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-EC4899?style=flat-square)
 
 ### 🧠 Generative AI & Agentic Systems
 
 <img src="https://skillicons.dev/icons?i=huggingface" />
 
-`LLMs` `Generative AI` `RAG` `Agentic AI`  
-`LangChain` `LangGraph` `Transformers` `Prompt Engineering`
+![LLMs](https://img.shields.io/badge/LLMs-0D9488?style=flat-square)
+![Generative AI](https://img.shields.io/badge/Generative_AI-0D9488?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-2563EB?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-F59E0B?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-2D6A4F?style=flat-square)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square)
 
 ### 🌍 Geospatial AI & Earth Observation
 
-`Google Earth Engine` `Satellite Imagery` `Remote Sensing`  
-`Spectral Indices` `NDVI` `Geospatial Data Analysis`
+![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=flat-square&logo=googleearth&logoColor=white)
+![Remote Sensing](https://img.shields.io/badge/Remote_Sensing-059669?style=flat-square)
+![Satellite Imagery](https://img.shields.io/badge/Satellite_Imagery-0D9488?style=flat-square)
+![NDVI](https://img.shields.io/badge/NDVI-65A30D?style=flat-square)
 
 ### 🌐 Backend & Application Development
 
 <img src="https://skillicons.dev/icons?i=fastapi,flask,streamlit,react,nodejs" />
 
-`FastAPI` `Streamlit` `REST APIs` `Pydantic`
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square)
 
 ### 📊 Data Science
 
 <img src="https://skillicons.dev/icons?i=numpy,pandas" />
 
-`NumPy` `Pandas` `Matplotlib` `Seaborn` `Data Visualization`
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-2563EB?style=flat-square)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-7C3AED?style=flat-square)
 
 ### 🗄️ Databases
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 
-`PostgreSQL` `SQL` `Vector Databases`
-
 ### ⚙️ Tools & Technologies
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
-
-`Git` `GitHub` `Docker` `Linux` `VS Code`
 
 </div>
 
@@ -154,12 +160,12 @@ I also bring several years of teaching experience, which has strengthened my com
 <div align="center">
 
 | Project | Description | Technologies |
-|---------|-------------|--------------|
-| 🛰️ **[Satellite Indices Agent](https://github.com/mayar22mostafa/satellite-indices-agent)** | Co-developed an LLM-based agent that converts natural-language requests into satellite imagery analysis workflows, with human approval, Google Earth Engine integration, and spectral index computation. | Python · LLMs · Google Earth Engine · Pydantic · FastAPI |
-| 🗣️ **[Arabic Meeting Summarizer — Khulasa Tech](https://github.com/SomayaMahmoud/Arabic-Meeting-Video-Summarizer-)** | Built an offline-capable Arabic meeting summarization system featuring speech transcription, speaker diarization, structured report generation, OCR, and RAG-based Q&A. | Python · Faster-Whisper · Fanar · Qwen3 · Ollama |
-| 👁️ **[Real-Time Driver Drowsiness Detection](https://github.com/SomayaMahmoud/Driver_Drowsiness_Detection)** | Developed a real-time driver monitoring system using facial landmarks, eye/mouth ratios, and head pose estimation with temporal state tracking for drowsiness detection. | Python · YOLO11 · MediaPipe · OpenCV |
-| 🧬 **[Drug-Target Interaction Prediction](https://github.com/SomayaMahmoud/Drug-Target-Interaction-DTI-Prediction)** | Built a deep learning pipeline to predict drug-protein binding affinity from molecular SMILES and protein sequences using biological and molecular feature extraction. | Python · PyTorch · DeepChem · RDKit |
-| 🍇 **Date Fruit Image Dataset** | Curated and preprocessed an image dataset of date fruit varieties across growth stages, applying data augmentation to support computer vision research. | Python · Computer Vision · Image Processing |
+|---|---|---|
+| 🛰️ **[Satellite Indices Agent](https://github.com/mayar22mostafa/satellite-indices-agent)** | LLM-based agent translating natural-language requests into satellite imagery analysis workflows, integrating human approval, Google Earth Engine, and spectral index computation. | Python · LLMs · Google Earth Engine · Pydantic · FastAPI |
+| 🗣️ **[Arabic Meeting Summarizer — Khulasa Tech](https://github.com/SomayaMahmoud/Arabic-Meeting-Video-Summarizer-)** | Offline-capable Arabic meeting summarization system featuring speech transcription, speaker diarization, structured report generation, OCR, and RAG-based Q&A. | Python · Faster-Whisper · Fanar · Qwen3 · Ollama |
+| 👁️ **[Real-Time Driver Drowsiness Detection](https://github.com/SomayaMahmoud/Driver_Drowsiness_Detection)** | Real-time driver monitoring using facial landmarks, eye/mouth ratios, and head pose estimation with temporal state tracking for drowsiness detection. | Python · YOLO11 · MediaPipe · OpenCV |
+| 🧬 **[Drug-Target Interaction Prediction](https://github.com/SomayaMahmoud/Drug-Target-Interaction-DTI-Prediction)** | Deep learning pipeline predicting drug-protein binding affinity from molecular SMILES and protein sequences using molecular and biological feature extraction. | Python · PyTorch · DeepChem · RDKit |
+| 🍇 **Date Fruit Image Dataset** | Curated and preprocessed an image dataset of date fruit varieties across growth stages, applying data augmentation for computer vision research. | Python · Computer Vision · Image Processing |
 
 </div>
 
@@ -221,11 +227,19 @@ I also bring several years of teaching experience, which has strengthened my com
 
 <div align="center">
 
-I'm always open to connecting with AI enthusiasts, engineers, researchers, and professionals to exchange ideas and explore opportunities in Artificial Intelligence.
+I'm always open to connecting with AI enthusiasts, engineers, researchers, and professionals to exchange ideas, collaborate on projects, and explore opportunities in Artificial Intelligence.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somayamahmoud8181/)
 
 [![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somaya8181@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Turning data into insights, and ideas into intelligent solutions."*
 
 </div>
 
